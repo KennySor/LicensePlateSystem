@@ -31,5 +31,7 @@ public class Conexion {
             System.out.println("Error al conectar o cerrar: " + e.getMessage());
         }
         System.out.println("GOZU");
+        String mundo = "hola";
+        mundo = "mundo";
     }
 }
