@@ -30,10 +30,5 @@ public class Conexion {
         } catch (SQLException e) {
             System.out.println("Error al conectar o cerrar: " + e.getMessage());
         }
-        System.out.println("GOZU");
-        String mundo = "hola";
-        mundo = "mundo";
-        System.out.println("aaa");
-        System.out.println("asd");
     }
 }
