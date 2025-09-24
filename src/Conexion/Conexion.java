@@ -21,5 +21,5 @@ public class Conexion {
             JOptionPane.showMessageDialog(null, "Error de conexión MySQL: " + e.getMessage());
             return null;
         }
-    }//ROWIX
+    }
 }
